@@ -1,12 +1,12 @@
 {
-    "name": "mycools/laravel-directadmin",
+    "name": "solitweb/laravel-directadmin",
     "description": "Laravel 5 DirectAdmin API wrapper",
     "keywords": [
         "solitweb",
         "laravel",
         "directadmin"
     ],
-    "homepage": "https://github.com/solitweb/laravel-directadmin",
+    "homepage": "https://github.com/mycools/laravel-directadmin",
     "license": "MIT",
     "authors": [
         {
